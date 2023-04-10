@@ -1,0 +1,3 @@
+#User Registration and Login System with Python 
+
+This Python desktop application program provides a user registration and login system that uses Sqllite database to store user data. The program allows users to register a new account, login to their account, and access their user dashboard after successful login. The user dashboard includes a welcome message with the user's name and a logout button.
